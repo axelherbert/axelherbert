@@ -29,7 +29,7 @@
 <img alt="vue" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png" />
 </code>](https://vuejs.org/)
 [<code>
-<img alt="angular" width="26px" src="https://img.icons8.com/color/240/000000/angular.png" />
+<img alt="angular" width="26px" src="https://img.icons8.com/color/240/000000/angularjs.png" />
 </code>](https://angularjs.org/)
 [<code>
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
