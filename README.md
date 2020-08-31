@@ -46,7 +46,7 @@
 [<code>
 <img alt="php" width="26px" src="https://img.icons8.com/color/240/000000/php.png">
 </code>](https://www.php.net/)
-<code>
+[<code>
 <img alt="symfony" width="26px" src="https://img.icons8.com/color/240/000000/symfony.png">
 </code>](https://symfony.com/)
 [<code>
