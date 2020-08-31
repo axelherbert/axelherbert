@@ -53,7 +53,7 @@
 <img alt="bootstrap" width="26px" src="https://img.icons8.com/color/240/000000/bootstrap.png">
 </code>](https://getbootstrap.com/)
 [<code>
-<img alt="jquery" width="26px" src="https://img.icons8.com/color/240/000000/jquery.png">
+<img alt="jQuery" width="26px" src="https://img.icons8.com/color/240/000000/jquery.png">
 </code>](https://jquery.com/)
 [<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
