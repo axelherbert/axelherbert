@@ -72,9 +72,15 @@
 </code>](https://wordpress.org/)
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
+</code>](https://dev.mysql.com/
 [<code>
-<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/240/000000/firebase.png">
+<img alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/240/000000/postgresql.png">
+</code>](https://www.postgresql.org/)
+[<code>
+<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/240/000000/mongodb.png">
+</code>](https://www.mongodb.com/)
+[<code>
+<img alt="Firebase" width="26px" src="https://img.icons8.com/color/240/000000/firebase.png">
 </code>](https://www.mongodb.com/)
 [<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
@@ -85,6 +91,9 @@
 [<code>
 <img alt="docker" width="26px" src="https://img.icons8.com/color/240/000000/docker.png">
 </code>](https://www.docker.com/)
+[<code>
+<img alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+</code>](https://aws.amazon.com/)
 [<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
