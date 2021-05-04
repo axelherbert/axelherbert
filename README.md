@@ -43,7 +43,7 @@
 [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
-<code>
+[<code>
 <img alt="redux" width="26px" src="https://img.icons8.com/color/240/000000/redux.png" />
 </code>](https://redux.js.org/)
 [<code>
