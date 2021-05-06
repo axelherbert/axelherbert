@@ -3,7 +3,7 @@
 ## Motivated, passionate web developer, willing to learn and practice !
 
 ⚡ Digital-savvy and passionate about the web, computers and new technologies, I am fortunate to be able to develop my skills in these areas.<br />
-💡Curious, always on the lookout for new things and learning, I am currently studying a Master's degree in Web Technology.<br />
+💡Curious, always on the lookout for new things and learning, I am currently studying a Master's degree of Computer Science.<br />
 🌱 I’m currently learning : React.js, Vue.js, Angular.js<br />
 😄 Fun fact : Tech addict<br />
 
