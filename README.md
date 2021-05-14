@@ -50,6 +50,9 @@
 <img alt="redux" width="26px" src="https://img.icons8.com/color/240/000000/redux.png" />
 </code>](https://redux.js.org/)
 [<code>
+<img alt="graphql" width="26px" src="https://img.icons8.com/color/240/000000/graphql.png" />
+</code>](https://graphql.org/)
+[<code>
 <img alt="vue" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png" />
 </code>](https://vuejs.org/)
 [<code>
