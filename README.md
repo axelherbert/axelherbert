@@ -65,9 +65,6 @@
 <img alt="jquery" width="26px" src="https://img.icons8.com/2266EE/jquery.png">
 </code>](https://jquery.com/)
 [<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
 <img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
 </code>](https://www.markdownguide.org/)
 [<code>
