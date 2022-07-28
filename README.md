@@ -44,6 +44,9 @@
 <img alt="redux" width="26px" src="https://img.icons8.com/color/240/000000/redux.png" />
 </code>](https://redux.js.org/)
 [<code>
+<img alt="vue" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png" />
+</code>](https://vuejs.org/)
+[<code>
 <img alt="php" width="26px" src="https://img.icons8.com/color/240/000000/php.png">
 </code>](https://www.php.net/)
 [<code>
@@ -52,9 +55,6 @@
 [<code>
 <img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
-[<code>
-<img alt="vue" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png" />
-</code>](https://vuejs.org/)
 [<code>
 <img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
 </code>](https://sass-lang.com/)
