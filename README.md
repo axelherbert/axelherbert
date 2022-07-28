@@ -62,12 +62,6 @@
 <img alt="bootstrap" width="26px" src="https://img.icons8.com/color/240/000000/bootstrap.png">
 </code>](https://getbootstrap.com/)
 [<code>
-<img alt="jquery" width="26px" src="https://img.icons8.com/2266EE/jquery.png">
-</code>](https://jquery.com/)
-[<code>
-<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
-</code>](https://www.markdownguide.org/)
-[<code>
 <img alt="wordpress" width="26px" src="https://img.icons8.com/color/240/000000/wordpress.png">
 </code>](https://wordpress.org/)
 [<code>
