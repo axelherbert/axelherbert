@@ -29,6 +29,12 @@
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
 [<code>
+<img alt="angular" width="26px" src="https://img.icons8.com/color/240/000000/angularjs.png" />
+</code>](https://angularjs.org/)
+[<code>
+<img alt="graphql" width="26px" src="https://img.icons8.com/color/240/000000/graphql.png" />
+</code>](https://graphql.org/)
+[<code>
 <img alt="redux" width="26px" src="https://img.icons8.com/color/240/000000/redux.png" />
 </code>](https://redux.js.org/)
 [<code>
@@ -47,14 +53,8 @@
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
 [<code>
-<img alt="graphql" width="26px" src="https://img.icons8.com/color/240/000000/graphql.png" />
-</code>](https://graphql.org/)
-[<code>
 <img alt="vue" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png" />
 </code>](https://vuejs.org/)
-[<code>
-<img alt="angular" width="26px" src="https://img.icons8.com/color/240/000000/angularjs.png" />
-</code>](https://angularjs.org/)
 [<code>
 <img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
 </code>](https://sass-lang.com/)
