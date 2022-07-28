@@ -117,6 +117,7 @@
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
+[![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=axelherbert)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://axelherbert.github.io/
 [twitter]: https://twitter.com/axel_herbert
