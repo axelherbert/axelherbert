@@ -47,12 +47,6 @@
 <img alt="vue" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png" />
 </code>](https://vuejs.org/)
 [<code>
-<img alt="php" width="26px" src="https://img.icons8.com/color/240/000000/php.png">
-</code>](https://www.php.net/)
-[<code>
-<img alt="symfony" width="26px" src="https://img.icons8.com/color/240/000000/symfony.png">
-</code>](https://symfony.com/)
-[<code>
 <img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
@@ -61,6 +55,12 @@
 [<code>
 <img alt="bootstrap" width="26px" src="https://img.icons8.com/color/240/000000/bootstrap.png">
 </code>](https://getbootstrap.com/)
+[<code>
+<img alt="php" width="26px" src="https://img.icons8.com/color/240/000000/php.png">
+</code>](https://www.php.net/)
+[<code>
+<img alt="symfony" width="26px" src="https://img.icons8.com/color/240/000000/symfony.png">
+</code>](https://symfony.com/)
 [<code>
 <img alt="wordpress" width="26px" src="https://img.icons8.com/color/240/000000/wordpress.png">
 </code>](https://wordpress.org/)
