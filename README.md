@@ -32,6 +32,9 @@
 <img alt="angular" width="26px" src="https://img.icons8.com/color/240/000000/angularjs.png" />
 </code>](https://angularjs.org/)
 [<code>
+<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+</code>](https://nodejs.org/en/)
+[<code>
 <img alt="graphql" width="26px" src="https://img.icons8.com/color/240/000000/graphql.png" />
 </code>](https://graphql.org/)
 [<code>
@@ -43,9 +46,6 @@
 [<code>
 <img alt="symfony" width="26px" src="https://img.icons8.com/color/240/000000/symfony.png">
 </code>](https://symfony.com/)
-[<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
 [<code>
 <img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
