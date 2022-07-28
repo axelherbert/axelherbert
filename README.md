@@ -86,6 +86,9 @@
 <img alt="docker" width="26px" src="https://img.icons8.com/color/240/000000/docker.png">
 </code>](https://www.docker.com/)
 [<code>
+<img alt="kubernetes" width="26px" src="https://img.icons8.com/color/240/000000/kubernetes.png">
+</code>](https://kubernetes.io/)
+[<code>
 <img alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
 </code>](https://aws.amazon.com/)
 [<code>
