@@ -1,7 +1,7 @@
 ## Hi there, I'm Axel Herbert a french web developer 👋
 
 ⚡Digital-savvy and passionate about the web, computers and new technologies, I am fortunate to be able to develop my skills in these areas.<br />
-💡Curious, always on the lookout for new things and learning, I’m currently learning : React.js, Vue.js, TypeScript and Python.<br />
+💡Curious, always on the lookout for new things and learning, I’m currently learning : TypeScript and Python.<br />
 😄 Fun fact : Fitness & Tech addict.<br />
 
 ### Connect with me:
